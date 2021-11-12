@@ -21,7 +21,7 @@ In the first case, the target-language text in the XLIFF files must be a copy of
 
 To create actual project package instances, proceed like this:
 
-1. Put the source XLIFF files in the `/source` folder.
+1. Put the source XLIFF files in the `source` folder.
 2. Change the target language code in each project’s `omegat.project` file to the actual correct expected code.
 3. Give the project package an appropriate name (ending in `_OMT`).
 
