@@ -1,12 +1,10 @@
 # OmegaT project package templates
 
+This repository contains two project templates that can be used to create project package.
+
 ## Preconditions
 
 It is assumed that the user's OmegaT installation has been customized with the files available [here](https://github.com/capstanlqc/omegat_customization), as explained in our installation and customization guide ([Windows](https://slides.com/capstan/omegat-installation-and-customization-guide) or [Mac](https://slides.com/msoutopico/omegat-installation-and-customization-guide-mac/)).
-
-## Contents
-
-This repository contains two project templates that can be used to create project package. 
 
 ## Language tasks
 
